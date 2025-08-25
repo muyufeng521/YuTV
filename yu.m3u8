@@ -79,3 +79,6 @@ http://106.53.99.30/tv/hot.php?id=cctv4o
 http://go.bkpcp.top/mg/cctv4m
 http://106.53.99.30/tv/hot.php?id=cctv4m
 http://k.061899.xyz/m.php?id=cctv4m
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV4K.png" tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
+http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+http://113.65.4.78:7188/udp/239.77.0.174:5146
