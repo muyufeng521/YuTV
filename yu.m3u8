@@ -104,9 +104,18 @@ http://180.112.179.168:8012/rtp/239.49.8.120:8000
 # 江苏电信276
 http://180.112.179.168:8012/rtp/239.49.8.122:8000
 
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/日喀则.png" tvg-id="日喀则" tvg-name="日喀则" group-title="西藏",日喀则
+https://console.rkzrm.cn:20323/4.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/日喀则藏语.png" tvg-id="日喀则藏语" tvg-name="日喀则藏语" group-title="西藏",日喀则藏语
+https://console.rkzrm.cn:20323/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏1汉语综合.png" tvg-id="阿克苏1汉语综合" tvg-name="阿克苏1汉语综合" group-title="西藏",阿克苏1汉语综合
+webview://https://web.guangdianyun.tv/tv/2229?uin=3643
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="西藏",阿克苏2维语综合
+webview://https://web.guangdianyun.tv/tv/2233?uin=3643
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="西藏",阿克苏党员远程教育
+webview://https://web.guangdianyun.tv/tv/2234?uin=3643
+
 #EXTINF:-1 group-title="测试",南昌
-https://live.nctv.net.cn/live/nctv1.m3u8?txSecret=064d7e99e964aad1352362793af8351f&txTime=68AC5FF5
-webview://https://www.nctv.net.cn/live?channel=1
-video://https://www.nctv.net.cn/live?channel=1
-webview://https://www.nctv.net.cn/live?channel=2
-video://https://www.nctv.net.cn/live?channel=2
+
+
