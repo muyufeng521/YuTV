@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://baoer.org.cn/e.xml" catchup="append" catchup-days="5" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV1.png" tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010144/1.m3u8?
@@ -83,70 +82,3 @@ http://k.061899.xyz/m.php?id=cctv4m
 http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 4K
 http://122.246.202.255:8081/tsfile/live/1004_1.m3u8?key=txiptv
-
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏城市.png" tvg-id="江苏城市" tvg-name="江苏城市" group-title="江苏",江苏城市
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.107:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏综艺.png" tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="江苏",江苏综艺
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.108:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏体育休闲.png" tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="江苏",	江苏体育休闲
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.117:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏综艺.png" tvg-id="江苏影视" tvg-name="江苏影视" group-title="江苏",江苏影视
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.118:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/优漫卡通.png" tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="江苏",优漫卡通
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.119:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏新闻.png" tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="江苏",江苏新闻
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏教育.png" tvg-id="江苏教育" tvg-name="江苏教育" group-title="江苏",江苏教育
-# 江苏电信276
-http://180.112.179.168:8012/rtp/239.49.8.122:8000
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京文艺.png" tvg-id="北京文艺" tvg-name="北京文艺" group-title="北京",北京文艺
-http://123.113.96.47:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京纪实科教.png" tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="北京",北京纪实科教
-http://123.113.96.47:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京财经.png" tvg-id="北京财经" tvg-name="北京财经" group-title="北京",北京财经
-http://123.113.96.47:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京卡酷少儿.png" tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" group-title="北京",北京卡酷少儿
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
-http://123.113.96.47:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/丽水新闻综合.png" tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" group-title="浙江",丽水新闻综合
-http://122.246.202.255:8081/tsfile/live/1000_1.m3u8?key=txiptv
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/青神综合.png" tvg-id="青神综合" tvg-name="青神综合" group-title="四川",青神综合
-
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/青海卫视.png" tvg-id="青海卫视" tvg-name="青海卫视" group-title="青海",青海卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/1.m3u8
-http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010111/1.m3u8?
-http://122.246.202.255:8081/tsfile/live/0140_1.m3u8?key=txiptv
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏1汉语综合.png" tvg-id="阿克苏1汉语综合" tvg-name="阿克苏1汉语综合" group-title="新疆",阿克苏1汉语综合
-webview://https://web.guangdianyun.tv/tv/2229?uin=3643
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏2维语综合
-webview://https://web.guangdianyun.tv/tv/2233?uin=3643
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏党员远程教育
-webview://https://web.guangdianyun.tv/tv/2234?uin=3643
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/日喀则.png" tvg-id="日喀则" tvg-name="日喀则" group-title="西藏",日喀则
-https://console.rkzrm.cn:20323/4.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/日喀则藏语.png" tvg-id="日喀则藏语" tvg-name="日喀则藏语" group-title="西藏",日喀则藏语
-https://console.rkzrm.cn:20323/8.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金牌综艺.png" tvg-id="金牌综艺" tvg-name="金牌综艺" group-title="NewTV",金牌综艺
-http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010086/1.m3u8?
-http://122.246.202.255:8081/tsfile/live/1002_1.m3u8?key=txiptv
-
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/爱旅行.png" tvg-id="爱旅行" tvg-name="爱旅行" group-title="iHOT",爱旅行
-http://122.246.202.255:8081/tsfile/live/1003_1.m3u8?key=txiptv
-
-#EXTINF:-1 group-title="测试",南昌
-
-

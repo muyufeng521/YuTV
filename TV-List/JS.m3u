@@ -1,0 +1,15 @@
+# 江苏电信276  180.112.179.168:8012
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏城市.png" tvg-id="江苏城市" tvg-name="江苏城市" group-title="江苏",江苏城市
+http://180.112.179.168:8012/rtp/239.49.8.107:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏综艺.png" tvg-id="江苏综艺" tvg-name="江苏综艺" group-title="江苏",江苏综艺
+http://180.112.179.168:8012/rtp/239.49.8.108:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏体育休闲.png" tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" group-title="江苏",江苏体育休闲
+http://180.112.179.168:8012/rtp/239.49.8.117:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏综艺.png" tvg-id="江苏影视" tvg-name="江苏影视" group-title="江苏",江苏影视
+http://180.112.179.168:8012/rtp/239.49.8.118:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/优漫卡通.png" tvg-id="优漫卡通" tvg-name="优漫卡通" group-title="江苏",优漫卡通
+http://180.112.179.168:8012/rtp/239.49.8.119:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏新闻.png" tvg-id="江苏新闻" tvg-name="江苏新闻" group-title="江苏",江苏新闻
+http://180.112.179.168:8012/rtp/239.49.8.120:8000
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏教育.png" tvg-id="江苏教育" tvg-name="江苏教育" group-title="江苏",江苏教育
+http://180.112.179.168:8012/rtp/239.49.8.122:8000
