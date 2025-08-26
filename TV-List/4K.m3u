@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV4K.png" tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K",CCTV4K
+http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K",CCTV16 4K
+http://122.246.202.255:8081/tsfile/live/1004_1.m3u8?key=txiptv

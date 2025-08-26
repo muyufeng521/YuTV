@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京文艺.png" tvg-id="北京文艺" tvg-name="北京文艺" group-title="北京",北京文艺
 http://123.113.96.47:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京纪实科教.png" tvg-id="北京纪实科教" tvg-name="北京纪实科教" group-title="北京",北京纪实科教
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京纪实科教.png" tvg-id="纪实科教" tvg-name="纪实科教" group-title="北京",北京纪实科教
 http://123.113.96.47:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京财经.png" tvg-id="北京财经" tvg-name="北京财经" group-title="北京",北京财经
 http://123.113.96.47:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京卡酷少儿.png" tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" group-title="北京",北京卡酷少儿
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/北京卡酷少儿.png" tvg-id="卡酷少儿" tvg-name="卡酷少儿" group-title="北京",北京卡酷少儿
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
 http://123.113.96.47:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0

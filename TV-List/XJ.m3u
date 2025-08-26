@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏1汉语综合.png" tvg-id="阿克苏1汉语综合" tvg-name="阿克苏1汉语综合" group-title="新疆",阿克苏1汉语综合
+#EXTINF:-1 tvg-logo="" tvg-id="阿克苏1汉语综合" tvg-name="阿克苏1汉语综合" group-title="新疆",阿克苏1汉语综合
 webview://https://web.guangdianyun.tv/tv/2229?uin=3643
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏2维语综合
+#EXTINF:-1 tvg-logo="" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏2维语综合
 webview://https://web.guangdianyun.tv/tv/2233?uin=3643
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阿克苏2维语综合.png" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏党员远程教育
+#EXTINF:-1 tvg-logo="" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏党员远程教育
 webview://https://web.guangdianyun.tv/tv/2234?uin=3643
