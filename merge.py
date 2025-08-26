@@ -23,7 +23,7 @@ def merge_and_filter_text_files(input_pattern, output_file, filter_char='@'):
             print(f"  - {file}")
         
         # 按文件名排序（可选）
-        file_list.sort()
+        # file_list.sort()
         
         # 统计信息
         total_lines = 0
@@ -53,7 +53,7 @@ def merge_and_filter_text_files(input_pattern, output_file, filter_char='@'):
                             
                             # 写入过滤后的行
                             outfile.write(line)
-                    
+                    outfile.write(f"\n")
                     print(f"已处理: {filename} (共 {file_lines} 行，过滤 {file_filtered} 行)")
                     
                 except Exception as e:
@@ -70,7 +70,7 @@ def merge_and_filter_text_files(input_pattern, output_file, filter_char='@'):
 
 if __name__ == "__main__":
     # 设置输入文件模式（可以根据需要修改）
-    input_pattern = "./TV-List/*.txt"  # 合并当前目录下所有txt文件
+    input_pattern = "./TV-List/*.m3u"  # 合并当前目录下所有txt文件
     
     # 设置输出文件路径（可以根据需要修改）
     output_file = "yu.m3u"
