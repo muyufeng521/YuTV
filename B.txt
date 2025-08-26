@@ -1,2 +1,11 @@
 CCTV1-综合,http://123.113.96.47:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://122.246.202.255:8081/tsfile/live/0140_1.m3u8?key=txiptv
+荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+德格综合频道,http://dgfile.ganzitv.com:80/nmip-media/channellive/channel101955/playlist.m3u8
+CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225673/1.m3u8
+CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/1.m3u8
+都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
+哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/1.m3u8
+动漫秀场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
+游戏风云,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
+乐游,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8

@@ -13,3 +13,6 @@ http://180.112.179.168:8012/rtp/239.49.8.119:8000
 http://180.112.179.168:8012/rtp/239.49.8.120:8000
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江苏教育.png" tvg-id="江苏教育" tvg-name="江苏教育" group-title="江苏",江苏教育
 http://180.112.179.168:8012/rtp/239.49.8.122:8000
+# 地方台
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/苏州4K.png" tvg-id="苏州4K" tvg-name="苏州4K" group-title="江苏",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8

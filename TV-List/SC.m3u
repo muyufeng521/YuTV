@@ -1,2 +1,65 @@
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/青神综合.png" tvg-id="青神综合" tvg-name="青神综合" group-title="四川",青神综合
 http://lmt.scqstv.com/live1/live1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/旺苍综合.png" tvg-id="旺苍综合" tvg-name="旺苍综合" group-title="四川",旺苍综合
+http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/利州.png" tvg-id="利州" tvg-name="利州" group-title="四川",利州
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/雅安新闻综合.png" tvg-id="雅安新闻综合" tvg-name="雅安新闻综合" group-title="四川",雅安新闻综合
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/乐至.png" tvg-id="乐至" tvg-name="乐至" group-title="四川",乐至
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/西昌.png" tvg-id="西昌" tvg-name="西昌" group-title="四川",西昌
+http://xcfb.screx.com.cn:18085/hlsnew1/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/五通桥.png" tvg-id="五通桥" tvg-name="五通桥" group-title="四川",五通桥
+https://play.wtqrm.com:443/qtwz/wtqzb.m3u8?auth_key=1663323505-0-0-01843919c015a267038d6e00fd1e1519
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/犍为综合.png" tvg-id="犍为综合" tvg-name="犍为综合" group-title="四川",犍为综合
+http://r8.vzan.com:80/v/slowlive_230559508552681163.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/井研新闻综合.png" tvg-id="井研新闻综合" tvg-name="井研新闻综合" group-title="四川",井研新闻综合
+http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/叙州新闻综合.png" tvg-id="叙州新闻综合" tvg-name="叙州新闻综合" group-title="四川",叙州新闻综合
+http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/长宁综合.png" tvg-id="长宁综合" tvg-name="长宁综合" group-title="四川",长宁综合
+http://cnpull.sccnfb.com:80/live/123456.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广安新闻综合.png" tvg-id="广安新闻综合" tvg-name="广安新闻综合" group-title="四川",广安新闻综合
+http://live1.gatv.com.cn:85/live/XWZH.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广安文旅乡村.png" tvg-id="广安文旅乡村" tvg-name="广安文旅乡村" group-title="四川",广安文旅乡村
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金川.png" tvg-id="金川" tvg-name="金川" group-title="四川",金川
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金川乡村.png" tvg-id="金川乡村" tvg-name="金川乡村" group-title="四川",金川乡村
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/汶川.png" tvg-id="汶川" tvg-name="汶川" group-title="四川",汶川
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/松潘.png" tvg-id="松潘" tvg-name="松潘" group-title="四川",松潘
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/剑阁综合.png" tvg-id="剑阁综合" tvg-name="剑阁综合" group-title="四川",剑阁综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/朝天综合.png" tvg-id="朝天综合" tvg-name="朝天综合" group-title="四川",朝天综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广元综合.png" tvg-id="广元综合" tvg-name="广元综合" group-title="四川",广元综合
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广元文化生活.png" tvg-id="广元文化生活" tvg-name="广元文化生活" group-title="四川",广元文化生活
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/泸州新闻综合.png" tvg-id="泸州新闻综合" tvg-name="泸州新闻综合" group-title="四川",泸州新闻综合
+http://file.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
+webview://https://www.luzhoubs.com/lztv1/index.html
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/泸州科教生活.png" tvg-id="泸州科教生活" tvg-name="泸州科教生活" group-title="四川",泸州科教生活
+http://file.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
+webview://https://www.luzhoubs.com/lztv3/index.html
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/遂宁综合.png" tvg-id="遂宁综合" tvg-name="遂宁综合" group-title="四川",遂宁综合
+https://szyplaytv.snxw.com/live/xwzh/playlist.m3u8
+webview://https://www.snxw.com/suinMini/site/6642bf8360b26293fe689f04/6642d21860b26293fe689f4c
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/遂宁文化生活.png" tvg-id="遂宁文化生活" tvg-name="遂宁文化生活" group-title="四川",遂宁文化生活
+https://szyplaytv.snxw.com/live/gggy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/攀枝花新闻综合.png" tvg-id="攀枝花新闻综合" tvg-name="攀枝花新闻综合" group-title="四川",攀枝花新闻综合
+https://h5.pzhkai.com/front-cloudlive-manage-h5/index.html?id=536937329516896257
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/绵阳新闻综合.png" tvg-id="绵阳新闻综合" tvg-name="绵阳新闻综合" group-title="四川",绵阳新闻综合
+webview://http://www.myntv.cn/html/zb/mytv1.asp
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/绵阳科教生活.png" tvg-id="绵阳科教生活" tvg-name="绵阳科教生活" group-title="四川",绵阳科教生活
+webview://http://www.myntv.cn/html/zb/mytv2.asp
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/什邡.png" tvg-id="什邡" tvg-name="什邡" group-title="四川",什邡
+http://live.sfrmt.com:85/live/zhpd.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/罗江.png" tvg-id="罗江" tvg-name="罗江" group-title="四川",罗江
+http://pull.luojiangrongmei.com/ljds/ljtv.m3u8

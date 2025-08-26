@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-logo="" tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="新疆",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+# 地方台
 #EXTINF:-1 tvg-logo="" tvg-id="阿克苏1汉语综合" tvg-name="阿克苏1汉语综合" group-title="新疆",阿克苏1汉语综合
 webview://https://web.guangdianyun.tv/tv/2229?uin=3643
 #EXTINF:-1 tvg-logo="" tvg-id="阿克苏2维语综合" tvg-name="阿克苏2维语综合" group-title="新疆",阿克苏2维语综合
