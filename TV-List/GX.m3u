@@ -1,3 +1,5 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广西卫视.png" tvg-id="广西卫视" tvg-name="广西卫视" group-title="广西",广西卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广西卫视.png" tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视",广西卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010099/1.m3u8?
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/桂林新闻综合.png" tvg-id="桂林新闻综合" tvg-name="桂林新闻综合" group-title="广西",桂林新闻综合
+https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188

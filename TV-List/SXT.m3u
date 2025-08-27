@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/山西卫视.png" tvg-id="山西卫视" tvg-name="山西卫视" group-title="山西",山西卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/山西卫视.png" tvg-id="山西卫视" tvg-name="山西卫视" group-title="卫视",山西卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/怀仁综合.png" tvg-id="怀仁综合" tvg-name="怀仁综合" group-title="山西",怀仁综合
+http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8

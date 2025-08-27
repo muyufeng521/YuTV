@@ -1,5 +1,6 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/湖南卫视.png" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="湖南",湖南卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/湖南卫视.png" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010058/1.m3u8?
+http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金鹰卡通.png" tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="湖南",金鹰卡通
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8

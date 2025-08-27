@@ -1,4 +1,395 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/山东卫视.png" tvg-id="山东卫视" tvg-name="山东卫视" group-title="山东",山东卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/山东卫视.png" tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视",山东卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225733/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010066/1.m3u8?
 http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/济铁.png" tvg-id="济铁" tvg-name="济铁" group-title="山东",济铁
+http://1.94.31.214/php/qilu.php?id=jnjrtv
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/梁山综合.png" tvg-id="梁山综合" tvg-name="梁山综合" group-title="山东",梁山综合
+http://1.94.31.214/php/qilu.php?id=jilszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/长清综合.png" tvg-id="长清综合" tvg-name="长清综合" group-title="山东",长清综合
+http://1.94.31.214/php/qilu.php?id=jncqxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/济阳综合.png" tvg-id="济阳综合" tvg-name="济阳综合" group-title="山东",济阳综合
+http://1.94.31.214/php/qilu.php?id=jnjyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/济阳影视.png" tvg-id="济阳影视" tvg-name="济阳影视" group-title="山东",济阳影视
+http://1.94.31.214/php/qilu.php?id=jnjyys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平阴综合.png" tvg-id="平阴综合" tvg-name="平阴综合" group-title="山东",平阴综合
+http://1.94.31.214/php/qilu.php?id=jnpyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平阴乡村振兴.png" tvg-id="平阴乡村振兴" tvg-name="平阴乡村振兴" group-title="山东",平阴乡村振兴
+http://1.94.31.214/php/qilu.php?id=jnpyxc
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/商河综合.png" tvg-id="商河综合" tvg-name="商河综合" group-title="山东",商河综合
+http://1.94.31.214/php/qilu.php?id=jnshzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/商河影视.png" tvg-id="商河影视" tvg-name="商河影视" group-title="山东",商河影视
+http://1.94.31.214/php/qilu.php?id=jnshys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/章丘综合.png" tvg-id="章丘综合" tvg-name="章丘综合" group-title="山东",章丘综合
+http://1.94.31.214/php/qilu.php?id=jnzqzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/章丘公共.png" tvg-id="章丘公共" tvg-name="章丘公共" group-title="山东",章丘2公共
+http://1.94.31.214/php/qilu.php?id=jnzqgg
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东营区.png" tvg-id="东营区" tvg-name="东营区" group-title="山东",东营区
+http://1.94.31.214/php/qilu.php?id=dydyqxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广饶综合.png" tvg-id="广饶综合" tvg-name="广饶综合" group-title="山东",广饶综合
+http://1.94.31.214/php/qilu.php?id=dygrzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/广饶科教.png" tvg-id="广饶科教" tvg-name="广饶科教" group-title="山东",广饶科教
+http://1.94.31.214/php/qilu.php?id=dygrkj
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/利津综合.png" tvg-id="利津综合" tvg-name="利津综合" group-title="山东",利津综合
+http://1.94.31.214/php/qilu.php?id=dyljzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/利津文化生活.png" tvg-id="利津文化生活" tvg-name="利津文化生活" group-title="山东",利津文化生活
+http://1.94.31.214/php/qilu.php?id=dyljwh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/黄岛综合.png" tvg-id="黄岛综合" tvg-name="黄岛综合" group-title="山东",黄岛综合
+http://1.94.31.214/php/qilu.php?id=qdhdzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/黄岛生活.png" tvg-id="黄岛生活" tvg-name="黄岛生活" group-title="山东",黄岛生活
+http://1.94.31.214/php/qilu.php?id=qdhdsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/即墨综合.png" tvg-id="即墨综合" tvg-name="即墨综合" group-title="山东",即墨综合
+http://1.94.31.214/php/qilu.php?id=qdjmzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/即墨生活服务.png" tvg-id="即墨生活服务" tvg-name="即墨生活服务" group-title="山东",即墨生活服务
+http://1.94.31.214/php/qilu.php?id=qdjmsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/胶州综合.png" tvg-id="胶州综合" tvg-name="胶州综合" group-title="山东",胶州综合
+http://1.94.31.214/php/qilu.php?id=qdjzzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/胶州生活.png" tvg-id="胶州生活" tvg-name="胶州生活" group-title="山东",胶州生活
+http://1.94.31.214/php/qilu.php?id=qdjzsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/李沧.png" tvg-id="李沧" tvg-name="李沧" group-title="山东",李沧
+http://1.94.31.214/php/qilu.php?id=qdlc
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/崂山.png" tvg-id="崂山" tvg-name="崂山" group-title="山东",崂山
+http://1.94.31.214/php/qilu.php?id=qdls
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱西综合.png" tvg-id="莱西综合" tvg-name="莱西综合" group-title="山东",莱西综合
+http://1.94.31.214/php/qilu.php?id=qdlxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱西生活.png" tvg-id="莱西生活" tvg-name="莱西生活" group-title="山东",莱西生活
+http://1.94.31.214/php/qilu.php?id=qdlxsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平度综合.png" tvg-id="平度综合" tvg-name="平度综合" group-title="山东",平度综合
+http://1.94.31.214/php/qilu.php?id=qdpdxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平度生活服务.png" tvg-id="平度生活服务" tvg-name="平度生活服务" group-title="山东",平度生活服务
+http://1.94.31.214/php/qilu.php?id=qdpdsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍坊新闻综合.png" tvg-id="潍坊新闻综合" tvg-name="潍坊新闻综合" group-title="山东",潍坊新闻综合
+http://1.94.31.214/php/qilu.php?id=wfxwzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍坊经济生活.png" tvg-id="潍坊经济生活" tvg-name="潍坊经济生活" group-title="山东",潍坊经济生活
+http://1.94.31.214/php/qilu.php?id=wfsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍坊公共.png" tvg-id="潍坊公共" tvg-name="潍坊公共" group-title="山东",潍坊公共
+http://1.94.31.214/php/qilu.php?id=wfyswy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍坊科教文化.png" tvg-id="潍坊科教文化" tvg-name="潍坊科教文化" group-title="山东",潍坊科教文化
+http://1.94.31.214/php/qilu.php?id=wfkjwl
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍坊高新区.png" tvg-id="潍坊高新区" tvg-name="潍坊高新区" group-title="山东",潍坊高新区
+http://1.94.31.214/php/qilu.php?id=wfgxq
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/安丘综合.png" tvg-id="安丘综合" tvg-name="安丘综合" group-title="山东",安丘综合
+http://1.94.31.214/php/qilu.php?id=wfaqzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/安丘民生.png" tvg-id="安丘民生" tvg-name="安丘民生" group-title="山东",安丘民生
+http://1.94.31.214/php/qilu.php?id=wfaqms
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/滨海新闻综合.png" tvg-id="滨海新闻综合" tvg-name="滨海新闻综合" group-title="山东",滨海新闻综合
+http://1.94.31.214/php/qilu.php?id=wfbhxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/昌乐综合.png" tvg-id="昌乐综合" tvg-name="昌乐综合" group-title="山东",昌乐综合
+http://1.94.31.214/php/qilu.php?id=wfclzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/昌邑综合.png" tvg-id="昌邑综合" tvg-name="昌邑综合" group-title="山东",昌邑综合
+http://1.94.31.214/php/qilu.php?id=wfcyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/昌邑经济生活.png" tvg-id="昌邑经济生活" tvg-name="昌邑经济生活" group-title="山东",昌邑经济生活
+http://1.94.31.214/php/qilu.php?id=wfcyjj
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/坊子新闻综合.png" tvg-id="坊子新闻综合" tvg-name="坊子新闻综合" group-title="山东",坊子新闻综合
+http://1.94.31.214/php/qilu.php?id=wffzxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高密综合.png" tvg-id="高密综合" tvg-name="高密综合" group-title="山东",高密综合
+http://1.94.31.214/php/qilu.php?id=wfgmzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高密党建农科.png" tvg-id="高密党建农科" tvg-name="高密党建农科" group-title="山东",高密党建农科
+http://1.94.31.214/php/qilu.php?id=wfgmdj
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/寒亭新闻.png" tvg-id="寒亭新闻" tvg-name="寒亭新闻" group-title="山东",寒亭新闻
+http://1.94.31.214/php/qilu.php?id=wfhtxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/奎文.png" tvg-id="奎文" tvg-name="奎文" group-title="山东",奎文
+http://1.94.31.214/php/qilu.php?id=wfkwtv
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临朐综合.png" tvg-id="临朐综合" tvg-name="临朐综合" group-title="山东",临朐综合
+http://1.94.31.214/php/qilu.php?id=wflqxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潍城.png" tvg-id="潍城" tvg-name="潍城" group-title="山东",潍城
+http://1.94.31.214/php/qilu.php?id=wfwc
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/诸城综合.png" tvg-id="诸城综合" tvg-name="诸城综合" group-title="山东",诸城综合
+http://1.94.31.214/php/qilu.php?id=wfzcxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/长岛.png" tvg-id="长岛" tvg-name="长岛" group-title="山东",长岛
+http://1.94.31.214/php/qilu.php?id=ytcd
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/福山综合.png" tvg-id="福山综合" tvg-name="福山综合" group-title="山东",福山综合
+http://1.94.31.214/php/qilu.php?id=ytfszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/福山生活.png" tvg-id="福山生活" tvg-name="福山生活" group-title="山东",福山生活
+http://1.94.31.214/php/qilu.php?id=ytfssh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/海阳综合.png" tvg-id="海阳综合" tvg-name="海阳综合" group-title="山东",海阳综合
+http://1.94.31.214/php/qilu.php?id=ythyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/龙口综合.png" tvg-id="龙口综合" tvg-name="龙口综合" group-title="山东",龙口综合
+http://1.94.31.214/php/qilu.php?id=ytlkzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/龙口生活.png" tvg-id="龙口生活" tvg-name="龙口生活" group-title="山东",龙口生活
+http://1.94.31.214/php/qilu.php?id=ytlksh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱山综合.png" tvg-id="莱山综合" tvg-name="莱山综合" group-title="山东",莱山综合
+http://1.94.31.214/php/qilu.php?id=ytlszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱山影视.png" tvg-id="莱山影视" tvg-name="莱山影视" group-title="山东",莱山影视
+http://1.94.31.214/php/qilu.php?id=ytlsys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱阳综合.png" tvg-id="莱阳综合" tvg-name="莱阳综合" group-title="山东",莱阳综合
+http://1.94.31.214/php/qilu.php?id=ytlyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱阳民生综艺.png" tvg-id="莱阳民生综艺" tvg-name="莱阳民生综艺" group-title="山东",莱阳民生综艺
+http://1.94.31.214/php/qilu.php?id=ytlyms
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莱州综合.png" tvg-id="莱州综合" tvg-name="莱州综合" group-title="山东",莱州综合
+http://1.94.31.214/php/qilu.php?id=ytlzzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/牟平综合.png" tvg-id="牟平综合" tvg-name="牟平综合" group-title="山东",牟平综合
+http://1.94.31.214/php/qilu.php?id=ytmpzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/蓬莱综合.png" tvg-id="蓬莱综合" tvg-name="蓬莱综合" group-title="山东",蓬莱综合
+http://1.94.31.214/php/qilu.php?id=ytplzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/蓬莱综艺.png" tvg-id="蓬莱综艺" tvg-name="蓬莱综艺" group-title="山东",蓬莱综艺
+http://1.94.31.214/php/qilu.php?id=ytplzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/栖霞综合.png" tvg-id="栖霞综合" tvg-name="栖霞综合" group-title="山东",栖霞综合
+http://1.94.31.214/php/qilu.php?id=ytqxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/栖霞苹果.png" tvg-id="栖霞苹果" tvg-name="栖霞苹果" group-title="山东",栖霞苹果
+http://1.94.31.214/php/qilu.php?id=ytqxpg
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/招远综合.png" tvg-id="招远综合" tvg-name="招远综合" group-title="山东",招远综合
+http://1.94.31.214/php/qilu.php?id=ytzyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/招远综艺.png" tvg-id="招远综艺" tvg-name="招远综艺" group-title="山东",招远综艺
+http://1.94.31.214/php/qilu.php?id=ytzyzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/博山新闻.png" tvg-id="博山新闻" tvg-name="博山新闻" group-title="山东",博山新闻
+http://1.94.31.214/php/qilu.php?id=zbbsxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/博山图文.png" tvg-id="博山图文" tvg-name="博山图文" group-title="山东",博山图文
+http://1.94.31.214/php/qilu.php?id=zbbstw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高青综合.png" tvg-id="高青综合" tvg-name="高青综合" group-title="山东",高青综合
+http://1.94.31.214/php/qilu.php?id=zbgqzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高青影视.png" tvg-id="高青影视" tvg-name="高青影视" group-title="山东",高青影视
+http://1.94.31.214/php/qilu.php?id=zbgqys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/桓台综合.png" tvg-id="桓台综合" tvg-name="桓台综合" group-title="山东",桓台综合
+http://1.94.31.214/php/qilu.php?id=zbht1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/桓台影视.png" tvg-id="桓台影视" tvg-name="桓台影视" group-title="山东",桓台影视
+http://1.94.31.214/php/qilu.php?id=zbht2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临淄综合.png" tvg-id="临淄综合" tvg-name="临淄综合" group-title="山东",临淄1综合
+http://1.94.31.214/php/qilu.php?id=zblzxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临淄生活服务.png" tvg-id="临淄生活服务" tvg-name="临淄生活服务" group-title="山东",临淄2生活服务
+http://1.94.31.214/php/qilu.php?id=zblzsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂源综合.png" tvg-id="沂源综合" tvg-name="沂源综合" group-title="山东",沂源综合
+http://1.94.31.214/php/qilu.php?id=zbyyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂源生活.png" tvg-id="沂源生活" tvg-name="沂源生活" group-title="山东",沂源生活
+http://1.94.31.214/php/qilu.php?id=zbyysh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/淄川新闻.png" tvg-id="淄川新闻" tvg-name="淄川新闻" group-title="山东",淄川新闻
+http://1.94.31.214/php/qilu.php?id=zbzcxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/淄川生活.png" tvg-id="淄川生活" tvg-name="淄川生活" group-title="山东",淄川生活
+http://1.94.31.214/php/qilu.php?id=zbzcsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/张店.png" tvg-id="张店" tvg-name="张店" group-title="山东",张店
+http://1.94.31.214/php/qilu.php?id=zbzd1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/张店2.png" tvg-id="张店2" tvg-name="张店2" group-title="山东",张店2
+http://1.94.31.214/php/qilu.php?id=zbzd2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/周村新闻.png" tvg-id="周村新闻" tvg-name="周村新闻" group-title="山东",周村新闻
+http://1.94.31.214/php/qilu.php?id=zbzctv1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/周村生活.png" tvg-id="周村生活" tvg-name="周村生活" group-title="山东",周村生活
+http://1.94.31.214/php/qilu.php?id=zbzctv2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/山亭综合.png" tvg-id="山亭综合" tvg-name="山亭综合" group-title="山东",山亭综合
+http://1.94.31.214/php/qilu.php?id=zzstzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/枣庄市中综合.png" tvg-id="枣庄市中综合" tvg-name="枣庄市中综合" group-title="山东",枣庄市中综合
+http://1.94.31.214/php/qilu.php?id=zzszzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/台儿庄新闻综合.png" tvg-id="台儿庄新闻综合" tvg-name="台儿庄新闻综合" group-title="山东",台儿庄新闻综合
+http://1.94.31.214/php/qilu.php?id=zztezxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/滕州综合.png" tvg-id="滕州综合" tvg-name="滕州综合" group-title="山东",滕州综合
+http://1.94.31.214/php/qilu.php?id=zztzzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/薛城新闻综合.png" tvg-id="薛城新闻综合" tvg-name="薛城新闻综合" group-title="山东",薛城新闻综合
+http://1.94.31.214/php/qilu.php?id=zzxcxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/峄城综合.png" tvg-id="峄城综合" tvg-name="峄城综合" group-title="山东",峄城综合
+http://1.94.31.214/php/qilu.php?id=zzyczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/滨城.png" tvg-id="滨城" tvg-name="滨城" group-title="山东",滨城
+http://1.94.31.214/php/qilu.php?id=bzbctv
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/博兴综合.png" tvg-id="博兴综合" tvg-name="博兴综合" group-title="山东",博兴综合
+http://1.94.31.214/php/qilu.php?id=bzbxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/博兴生活.png" tvg-id="博兴生活" tvg-name="博兴生活" group-title="山东",博兴生活
+http://1.94.31.214/php/qilu.php?id=bzbxsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/惠民综合.png" tvg-id="惠民综合" tvg-name="惠民综合" group-title="山东",惠民综合
+http://1.94.31.214/php/qilu.php?id=bzhmzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/惠民影视.png" tvg-id="惠民影视" tvg-name="惠民影视" group-title="山东",惠民影视
+http://1.94.31.214/php/qilu.php?id=bzhmys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/无棣综合.png" tvg-id="无棣综合" tvg-name="无棣综合" group-title="山东",无棣综合
+http://1.94.31.214/php/qilu.php?id=bzwdzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/无棣综艺.png" tvg-id="无棣综艺" tvg-name="无棣综艺" group-title="山东",无棣综艺
+http://1.94.31.214/php/qilu.php?id=bzwdzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阳信综合.png" tvg-id="阳信综合" tvg-name="阳信综合" group-title="山东",阳信综合
+http://1.94.31.214/php/qilu.php?id=bzyxxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沾化综合.png" tvg-id="沾化综合" tvg-name="沾化综合" group-title="山东",沾化综合
+http://1.94.31.214/php/qilu.php?id=bzzhzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沾化综艺.png" tvg-id="沾化综艺" tvg-name="沾化综艺" group-title="山东",沾化综艺
+http://1.94.31.214/php/qilu.php?id=bzzhzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/德州新闻综合.png" tvg-id="德州新闻综合" tvg-name="德州新闻综合" group-title="山东",德州新闻综合
+http://1.94.31.214/php/qilu.php?id=dzxwzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/德州经济生活.png" tvg-id="德州经济生活" tvg-name="德州经济生活" group-title="山东",德州经济生活
+http://1.94.31.214/php/qilu.php?id=dzjjsh
+http://1.94.31.214/php/qilu.php?id=dztw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/陵城综合.png" tvg-id="陵城综合" tvg-name="陵城综合" group-title="山东",陵城综合
+http://1.94.31.214/php/qilu.php?id=dzlczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/乐陵综合.png" tvg-id="乐陵综合" tvg-name="乐陵综合" group-title="山东",乐陵综合
+http://1.94.31.214/php/qilu.php?id=dzllxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/乐陵影视文旅.png" tvg-id="乐陵影视文旅" tvg-name="乐陵影视文旅" group-title="山东",乐陵影视文旅
+http://1.94.31.214/php/qilu.php?id=dzllcs
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临邑1.png" tvg-id="临邑1" tvg-name="临邑1" group-title="山东",临邑1
+http://1.94.31.214/php/qilu.php?id=dzly1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/宁津综合.png" tvg-id="宁津综合" tvg-name="宁津综合" group-title="山东",宁津综合
+http://1.94.31.214/php/qilu.php?id=dznjzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平原综合.png" tvg-id="平原综合" tvg-name="平原综合" group-title="山东",平原综合
+http://1.94.31.214/php/qilu.php?id=dzpyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/齐河综合.png" tvg-id="齐河综合" tvg-name="齐河综合" group-title="山东",齐河综合
+http://1.94.31.214/php/qilu.php?id=dzqhzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/武城综合.png" tvg-id="武城综合" tvg-name="武城综合" group-title="山东",武城综合
+http://1.94.31.214/php/qilu.php?id=dzwczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/武城综艺影视.png" tvg-id="武城综艺影视" tvg-name="武城综艺影视" group-title="山东",武城综艺影视
+http://1.94.31.214/php/qilu.php?id=dzwczy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/夏津综合.png" tvg-id="夏津综合" tvg-name="夏津综合" group-title="山东",夏津综合
+http://1.94.31.214/php/qilu.php?id=dzxjzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/夏津公共.png" tvg-id="夏津公共" tvg-name="夏津公共" group-title="山东",夏津公共
+http://1.94.31.214/php/qilu.php?id=dzxjgg
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/禹城综合.png" tvg-id="禹城综合" tvg-name="禹城综合" group-title="山东",禹城综合
+http://1.94.31.214/php/qilu.php?id=dzyczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/禹城综艺.png" tvg-id="禹城综艺" tvg-name="禹城综艺" group-title="山东",禹城综艺
+http://1.94.31.214/php/qilu.php?id=dzyczy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/成武综合.png" tvg-id="成武综合" tvg-name="成武综合" group-title="山东",成武综合
+http://1.94.31.214/php/qilu.php?id=hzcwzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/成武综艺.png" tvg-id="成武综艺" tvg-name="成武综艺" group-title="山东",成武综艺
+http://1.94.31.214/php/qilu.php?id=hzcwzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/曹县综合.png" tvg-id="曹县综合" tvg-name="曹县综合" group-title="山东",曹县综合
+http://1.94.31.214/php/qilu.php?id=hzcxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东明新闻综合.png" tvg-id="东明新闻综合" tvg-name="东明新闻综合" group-title="山东",东明1新闻综合
+http://1.94.31.214/php/qilu.php?id=hzdmxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/定陶1.png" tvg-id="定陶1" tvg-name="定陶1" group-title="山东",定陶1
+http://1.94.31.214/php/qilu.php?id=hzdt1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/定陶2.png" tvg-id="定陶2" tvg-name="定陶2" group-title="山东",定陶2
+http://1.94.31.214/php/qilu.php?id=hzdt2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/鄄城综合.png" tvg-id="鄄城综合" tvg-name="鄄城综合" group-title="山东",鄄城综合
+http://1.94.31.214/php/qilu.php?id=hzjczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/巨野综合.png" tvg-id="巨野综合" tvg-name="巨野综合" group-title="山东",巨野综合
+http://1.94.31.214/php/qilu.php?id=hzjyxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/菏泽牡丹区.png" tvg-id="菏泽牡丹区" tvg-name="菏泽牡丹区" group-title="山东",菏泽牡丹区1
+http://1.94.31.214/php/qilu.php?id=hzmdxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/菏泽牡丹区2.png" tvg-id="菏泽牡丹区2" tvg-name="菏泽牡丹区2" group-title="山东",菏泽牡丹区2
+http://1.94.31.214/php/qilu.php?id=hzmdzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/单县综合.png" tvg-id="单县综合" tvg-name="单县综合" group-title="山东",单县综合
+http://1.94.31.214/php/qilu.php?id=hzsxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/郓城综合.png" tvg-id="郓城综合" tvg-name="郓城综合" group-title="山东",郓城综合
+http://1.94.31.214/php/qilu.php?id=hzycxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/郓城综艺.png" tvg-id="郓城综艺" tvg-name="郓城综艺" group-title="山东",郓城综艺
+http://1.94.31.214/php/qilu.php?id=hzyczy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金乡综合.png" tvg-id="金乡综合" tvg-name="金乡综合" group-title="山东",金乡综合
+http://1.94.31.214/php/qilu.php?id=jijxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/金乡生活.png" tvg-id="金乡生活" tvg-name="金乡生活" group-title="山东",金乡生活
+http://1.94.31.214/php/qilu.php?id=jijxsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/曲阜综合.png" tvg-id="曲阜综合" tvg-name="曲阜综合" group-title="山东",曲阜综合
+http://1.94.31.214/php/qilu.php?id=jiqfxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/任城1.png" tvg-id="任城1" tvg-name="任城1" group-title="山东",任城1
+http://1.94.31.214/php/qilu.php?id=jircxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/任城2.png" tvg-id="任城2" tvg-name="任城2" group-title="山东",任城2
+http://1.94.31.214/php/qilu.php?id=jircys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/泗水综合.png" tvg-id="泗水综合" tvg-name="泗水综合" group-title="山东",泗水综合
+http://1.94.31.214/php/qilu.php?id=jissxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/泗水生活.png" tvg-id="泗水生活" tvg-name="泗水生活" group-title="山东",泗水生活
+http://1.94.31.214/php/qilu.php?id=jisswh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/汶上综合.png" tvg-id="汶上综合" tvg-name="汶上综合" group-title="山东",汶上综合
+http://1.94.31.214/php/qilu.php?id=jiwszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/鱼台综合.png" tvg-id="鱼台综合" tvg-name="鱼台综合" group-title="山东",鱼台综合
+http://1.94.31.214/php/qilu.php?id=jiytxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/鱼台生活.png" tvg-id="鱼台生活" tvg-name="鱼台生活" group-title="山东",鱼台生活
+http://1.94.31.214/php/qilu.php?id=jiytsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/兖州综合.png" tvg-id="兖州综合" tvg-name="兖州综合" group-title="山东",兖州综合
+http://1.94.31.214/php/qilu.php?id=jiyzxw
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/兖州生活.png" tvg-id="兖州生活" tvg-name="兖州生活" group-title="山东",兖州生活
+http://1.94.31.214/php/qilu.php?id=jiyzsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/邹城综合.png" tvg-id="邹城综合" tvg-name="邹城综合" group-title="山东",邹城综合
+http://1.94.31.214/php/qilu.php?id=jizczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/邹城文化生活.png" tvg-id="邹城文化生活" tvg-name="邹城文化生活" group-title="山东",邹城文化生活
+http://1.94.31.214/php/qilu.php?id=jizcwh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/茌平综合.png" tvg-id="茌平综合" tvg-name="茌平综合" group-title="山东",茌平综合
+http://1.94.31.214/php/qilu.php?id=lccpzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/茌平生活.png" tvg-id="茌平生活" tvg-name="茌平生活" group-title="山东",茌平生活
+http://1.94.31.214/php/qilu.php?id=lccpsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东昌综合.png" tvg-id="东昌综合" tvg-name="东昌综合" group-title="山东",东昌综合
+http://1.94.31.214/php/qilu.php?id=lcdczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东阿综合.png" tvg-id="东阿综合" tvg-name="东阿综合" group-title="山东",东阿综合
+http://1.94.31.214/php/qilu.php?id=lcdezh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东阿综艺.png" tvg-id="东阿综艺" tvg-name="东阿综艺" group-title="山东",东阿综艺
+http://1.94.31.214/php/qilu.php?id=lcdezy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高唐综合.png" tvg-id="高唐综合" tvg-name="高唐综合" group-title="山东",高唐综合
+http://1.94.31.214/php/qilu.php?id=lcgtzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/高唐综艺.png" tvg-id="高唐综艺" tvg-name="高唐综艺" group-title="山东",高唐综艺
+http://1.94.31.214/php/qilu.php?id=lcgtzy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/冠县综合.png" tvg-id="冠县综合" tvg-name="冠县综合" group-title="山东",冠县综合
+http://1.94.31.214/php/qilu.php?id=lcgxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临清综合.png" tvg-id="临清综合" tvg-name="临清综合" group-title="山东",临清综合
+http://1.94.31.214/php/qilu.php?id=lclqzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临清经济信息.png" tvg-id="临清经济信息" tvg-name="临清经济信息" group-title="山东",临清经济信息
+http://1.94.31.214/php/qilu.php?id=lclqjj
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莘县生活.png" tvg-id="莘县生活" tvg-name="莘县生活" group-title="山东",莘县生活
+http://1.94.31.214/php/qilu.php?id=lcsxsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阳谷综合.png" tvg-id="阳谷综合" tvg-name="阳谷综合" group-title="山东",阳谷综合
+http://1.94.31.214/php/qilu.php?id=lcygzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/阳谷影视.png" tvg-id="阳谷影视" tvg-name="阳谷影视" group-title="山东",阳谷影视
+http://1.94.31.214/php/qilu.php?id=lcygys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/费县综合.png" tvg-id="费县综合" tvg-name="费县综合" group-title="山东",费县综合
+http://1.94.31.214/php/qilu.php?id=lyfxzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/费县生活.png" tvg-id="费县生活" tvg-name="费县生活" group-title="山东",费县生活
+http://1.94.31.214/php/qilu.php?id=lyfxsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/河东综合.png" tvg-id="河东综合" tvg-name="河东综合" group-title="山东",河东综合
+http://1.94.31.214/php/qilu.php?id=lyhdys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/河东影视.png" tvg-id="河东影视" tvg-name="河东影视" group-title="山东",河东影视
+http://1.94.31.214/php/qilu.php?id=lyhdzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莒南综合.png" tvg-id="莒南综合" tvg-name="莒南综合" group-title="山东",莒南综合
+http://1.94.31.214/php/qilu.php?id=lyjnzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莒南影视.png" tvg-id="莒南影视" tvg-name="莒南影视" group-title="山东",莒南影视
+http://1.94.31.214/php/qilu.php?id=lyjnys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/兰山综合.png" tvg-id="兰山综合" tvg-name="兰山综合" group-title="山东",兰山综合
+http://1.94.31.214/php/qilu.php?id=lylszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临沭综合.png" tvg-id="临沭综合" tvg-name="临沭综合" group-title="山东",临沭综合
+http://1.94.31.214/php/qilu.php?id=lyls1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/临沭生活.png" tvg-id="临沭生活" tvg-name="临沭生活" group-title="山东",临沭生活
+http://1.94.31.214/php/qilu.php?id=lyls2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/罗庄综合.png" tvg-id="罗庄综合" tvg-name="罗庄综合" group-title="山东",罗庄综合
+http://1.94.31.214/php/qilu.php?id=lylzzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/罗庄影视.png" tvg-id="罗庄影视" tvg-name="罗庄影视" group-title="山东",罗庄影视
+http://1.94.31.214/php/qilu.php?id=lylzys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/蒙阴综合.png" tvg-id="蒙阴综合" tvg-name="蒙阴综合" group-title="山东",蒙阴综合
+http://1.94.31.214/php/qilu.php?id=lymy1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/蒙阴2.png" tvg-id="蒙阴2" tvg-name="蒙阴2" group-title="山东",蒙阴2
+http://1.94.31.214/php/qilu.php?id=lymy2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平邑综合.png" tvg-id="平邑综合" tvg-name="平邑综合" group-title="山东",平邑综合
+http://1.94.31.214/php/qilu.php?id=lypyzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/平邑生活.png" tvg-id="平邑生活" tvg-name="平邑生活" group-title="山东",平邑生活
+http://1.94.31.214/php/qilu.php?id=lypysh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/郯城综合.png" tvg-id="郯城综合" tvg-name="郯城综合" group-title="山东",郯城综合
+http://1.94.31.214/php/qilu.php?id=lytc1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/郯城2.png" tvg-id="郯城2" tvg-name="郯城2" group-title="山东",郯城2
+http://1.94.31.214/php/qilu.php?id=lytc2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂南综合.png" tvg-id="沂南综合" tvg-name="沂南综合" group-title="山东",沂南综合
+http://1.94.31.214/php/qilu.php?id=lyynzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂南红色影视.png" tvg-id="沂南红色影视" tvg-name="沂南红色影视" group-title="山东",沂南红色影视
+http://1.94.31.214/php/qilu.php?id=lyynys
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂水综合.png" tvg-id="沂水综合" tvg-name="沂水综合" group-title="山东",沂水综合
+http://1.94.31.214/php/qilu.php?id=lyys1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/沂水生活.png" tvg-id="沂水生活" tvg-name="沂水生活" group-title="山东",沂水生活
+http://1.94.31.214/php/qilu.php?id=lyys2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/莒县综合.png" tvg-id="莒县综合" tvg-name="莒县综合" group-title="山东",莒县综合
+http://1.94.31.214/php/qilu.php?id=rzjx1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/岚山.png" tvg-id="岚山" tvg-name="岚山" group-title="山东",岚山
+http://1.94.31.214/php/qilu.php?id=rzls
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/五莲综合.png" tvg-id="五莲综合" tvg-name="五莲综合" group-title="山东",五莲综合
+http://1.94.31.214/php/qilu.php?id=rzwlzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/五莲文化旅游.png" tvg-id="五莲文化旅游" tvg-name="五莲文化旅游" group-title="山东",五莲文化旅游
+http://1.94.31.214/php/qilu.php?id=rzwlwh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东平综合.png" tvg-id="东平综合" tvg-name="东平综合" group-title="山东",东平综合
+http://1.94.31.214/php/qilu.php?id=tadpzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/东平民生.png" tvg-id="东平民生" tvg-name="东平民生" group-title="山东",东平民生
+http://1.94.31.214/php/qilu.php?id=tadpms
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/岱岳.png" tvg-id="岱岳" tvg-name="岱岳" group-title="山东",岱岳
+http://1.94.31.214/php/qilu.php?id=tady
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/肥城生活.png" tvg-id="肥城生活" tvg-name="肥城生活" group-title="山东",肥城生活
+http://1.94.31.214/php/qilu.php?id=tafcsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/宁阳综合.png" tvg-id="宁阳综合" tvg-name="宁阳综合" group-title="山东",宁阳综合
+http://1.94.31.214/php/qilu.php?id=tany1
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/宁阳2.png" tvg-id="宁阳2" tvg-name="宁阳2" group-title="山东",宁阳2
+http://1.94.31.214/php/qilu.php?id=tany2
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/泰山.png" tvg-id="泰山" tvg-name="泰山" group-title="山东",泰山
+http://1.94.31.214/php/qilu.php?id=tats
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/新泰综合.png" tvg-id="新泰综合" tvg-name="新泰综合" group-title="山东",新泰综合
+http://1.94.31.214/php/qilu.php?id=taxtzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/新泰乡村.png" tvg-id="新泰乡村" tvg-name="新泰乡村" group-title="山东",新泰乡村
+http://1.94.31.214/php/qilu.php?id=taxtxc
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/威海新闻综合.png" tvg-id="威海新闻综合" tvg-name="威海新闻综合" group-title="山东",威海新闻综合
+http://1.94.31.214/php/qilu.php?id=whxwzh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/威海都市生活.png" tvg-id="威海都市生活" tvg-name="威海都市生活" group-title="山东",威海都市生活
+http://1.94.31.214/php/qilu.php?id=whdssh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/威海海洋.png" tvg-id="威海海洋" tvg-name="威海海洋" group-title="山东",威海海洋
+http://1.94.31.214/php/qilu.php?id=whhy
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/威海环翠.png" tvg-id="威海环翠" tvg-name="威海环翠" group-title="山东",威海环翠
+http://1.94.31.214/php/qilu.php?id=whhczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/荣成综合.png" tvg-id="荣成综合" tvg-name="荣成综合" group-title="山东",荣成综合
+http://1.94.31.214/php/qilu.php?id=whrczh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/荣成生活.png" tvg-id="荣成生活" tvg-name="荣成生活" group-title="山东",荣成生活
+http://1.94.31.214/php/qilu.php?id=whrcsh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/乳山综合.png" tvg-id="乳山综合" tvg-name="乳山综合" group-title="山东",乳山综合
+http://1.94.31.214/php/qilu.php?id=whrszh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/乳山生活.png" tvg-id="乳山生活" tvg-name="乳山生活" group-title="山东",乳山生活
+http://1.94.31.214/php/qilu.php?id=whrssh
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/文登2.png" tvg-id="文登2" tvg-name="文登2" group-title="山东",文登2
+http://1.94.31.214/php/qilu.php?id=whwd2

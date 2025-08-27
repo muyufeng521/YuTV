@@ -1,3 +1,10 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/河北卫视.png" tvg-id="河北卫视" tvg-name="河北卫视" group-title="河北",河北卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/河北卫视.png" tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视",河北卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226107/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010101/1.m3u8?
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/石家庄新闻综合.png" tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" group-title="河北",石家庄新闻综合
+http://nn.7x9d.cn/石家庄.php?id=4
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/石家庄城市服务.png" tvg-id="石家庄城市服务" tvg-name="石家庄城市服务" group-title="河北",石家庄城市服务
+http://nn.7x9d.cn/石家庄.php?id=5
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/石家庄文化娱乐.png" tvg-id="石家庄文化娱乐" tvg-name="石家庄文化娱乐" group-title="河北",石家庄文化娱乐
+http://nn.7x9d.cn/石家庄.php?id=6

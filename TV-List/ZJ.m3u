@@ -1,8 +1,9 @@
 # 省台
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/浙江卫视.png" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="浙江",浙江卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/浙江卫视.png" tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225727/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010070/1.m3u8?
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 # 地方台
 #EXTINF:-1 tvg-logo="" tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" group-title="浙江",丽水新闻综合
 http://122.246.202.255:8081/tsfile/live/1000_1.m3u8?key=txiptv

@@ -1,2 +1,5 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/吉林卫视.png" tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="吉林",吉林卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/吉林卫视.png" tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226149/1.m3u8
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/公主岭综合.png" tvg-id="公主岭综合" tvg-name="公主岭综合" group-title="吉林",公主岭综合
+http://stream5.jlntv.cn/gzl/playlist.m3u8

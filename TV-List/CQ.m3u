@@ -1,3 +1,8 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/重庆卫视.png" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="重庆",重庆卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/重庆卫视.png" tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010053/1.m3u8?
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/潼南综合.png" tvg-id="潼南综合" tvg-name="潼南综合" group-title="重庆",潼南综合
+http://183.230.184.51:65500/tntv1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/璧山.png" tvg-id="璧山" tvg-name="璧山" group-title="重庆",璧山
+http://222.179.42.129:8181/hls1.m3u8

@@ -1,6 +1,7 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/四川卫视.png" tvg-id="四川卫视" tvg-name="四川卫视" group-title="四川",四川卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/四川卫视.png" tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视",四川卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010115/1.m3u8?
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 # 地方台
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/青神综合.png" tvg-id="青神综合" tvg-name="青神综合" group-title="四川",青神综合
 http://lmt.scqstv.com/live1/live1.m3u8

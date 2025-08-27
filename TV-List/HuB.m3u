@@ -1,3 +1,8 @@
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/湖北卫视.png" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="湖北",湖北卫视
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/湖北卫视.png" tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/1.m3u8
 http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010057/1.m3u8?
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/荆门新闻综合.png" tvg-id="荆门新闻综合" tvg-name="荆门新闻综合" group-title="湖北",荆门新闻综合
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/荆门科教文旅.png" tvg-id="荆门科教文旅" tvg-name="荆门科教文旅" group-title="湖北",荆门科教文旅
+http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
