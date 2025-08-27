@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/辽宁卫视.png" tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="辽宁",辽宁卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/1.m3u8
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010061/1.m3u8?

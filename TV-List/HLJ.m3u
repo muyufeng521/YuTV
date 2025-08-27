@@ -1,2 +1,14 @@
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/黑龙江卫视.png" tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="黑龙江",黑龙江卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/1.m3u8
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010056/1.m3u8?
+# 地方台
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/齐齐哈尔新闻综合.png" tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" group-title="黑龙江",齐齐哈尔1新闻综合
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/齐齐哈尔经济法治.png" tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" group-title="黑龙江",齐齐哈尔2经济法治
+http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226555/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/鹤岗新闻综合.png" tvg-id="鹤岗新闻综合" tvg-name="鹤岗新闻综合" group-title="黑龙江",鹤岗新闻综合
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/大庆教育.png" tvg-id="大庆教育" tvg-name="大庆教育" group-title="黑龙江",大庆教育
+http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/佳木斯新闻综合.png" tvg-id="佳木斯新闻综合" tvg-name="佳木斯新闻综合" group-title="黑龙江",佳木斯新闻综合
+http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8

@@ -1,0 +1,3 @@
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/江西卫视.png" tvg-id="江西卫视" tvg-name="江西卫视" group-title="江西",江西卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225740/1.m3u8
+http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010060/1.m3u8?
