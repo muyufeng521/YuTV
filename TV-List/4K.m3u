@@ -1,12 +1,12 @@
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV4K.png" tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="4K",CCTV4K
-http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+# http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="4K",CCTV16 4K
 http://122.246.202.255:8081/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/河北4K.png" tvg-id="河北4K" tvg-name="河北4K" group-title="4K",河北4K
+#EXTINF:-1 tvg-logo="" tvg-id="河北4K" tvg-name="河北4K" group-title="4K",河北4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/至臻视界4K.png" tvg-id="至臻视界4K" tvg-name="至臻视界4K" group-title="4K",至臻视界4K
+#EXTINF:-1 tvg-logo="" tvg-id="至臻视界4K" tvg-name="至臻视界4K" group-title="4K",至臻视界4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/咪视界4K.png" tvg-id="咪视界4K" tvg-name="咪视界4K" group-title="4K",咪视界4K
+#EXTINF:-1 tvg-logo="" tvg-id="咪视界4K" tvg-name="咪视界4K" group-title="4K",咪视界4K
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/欢笑剧场.png" tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="上海",欢笑剧场 4K
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/欢笑剧场.png" tvg-id="欢笑剧场" tvg-name="欢笑剧场" group-title="4K",欢笑剧场4K
 http://116.234.46.145:4022/udp/239.45.1.4:5140

@@ -79,6 +79,15 @@ http://go.bkpcp.top/mg/cctv4m
 http://106.53.99.30/tv/hot.php?id=cctv4m
 http://k.061899.xyz/m.php?id=cctv4m
 #EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV4K.png" tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
-http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CCTV16.png" tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视",CCTV16 4K
-http://122.246.202.255:8081/tsfile/live/1004_1.m3u8?key=txiptv
+# 中国教育电视台
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CETV1.png" tvg-id="CETV1" tvg-name="CETV1" group-title="央视",CETV1
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/CETV4.png" tvg-id="CETV4" tvg-name="CETV4" group-title="央视",CETV4
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226153/1.m3u8
+# 广电睛彩
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/睛彩竞技.png" tvg-id="睛彩竞技" tvg-name="睛彩竞技" group-title="央视",睛彩竞技
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/睛彩篮球.png" tvg-id="睛彩篮球" tvg-name="睛彩篮球" group-title="央视",睛彩篮球
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.zsdc.eu.org/logo/睛彩广场舞.png" tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" group-title="央视",睛彩广场舞
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
