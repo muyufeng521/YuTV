@@ -1,3 +1,4 @@
+TV-0,#genre# 
 1@黑莓电影,http://tvcdn.kkmz.top/itv/1000000004000019624.m3u8?cdn=ystenlive
 2@CHC高清电影,http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 3@CHC动作电影,http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
