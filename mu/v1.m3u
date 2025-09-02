@@ -1,8 +1,14 @@
-#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz" catchup="append" catchup-days="5" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml,http://156.225.20.179:5000/download/e.xml,https://epg.zsdc.eu.org/t.xml.gz" catchup="append" catchup-days="5" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" tvg-name="CCTV4k" group-title="4K",CCTV4K
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="4K",广东4K
+http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="4K",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="4K",法国时尚台4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",CCTV1 FHD
-http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" tvg-name="CCTV1" group-title="央视",CCTV1 FHD
+http://xg.52sw.top/cctv.php?id=cctv1
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",湖南卫视FHD
 http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",北京卫视FHD
@@ -11,6 +17,14 @@ http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",西藏卫视FHD
 http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",西藏藏语卫视FHD
+http://php.jdshipin.com:8880/xztv.php?id=zy
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",山西卫视FHD
+http://171.15.18.199:8180/TV00000000000000000038@HHZT
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",陕西卫视FHD
+http://171.15.18.199:8180/TV00000000000000000039@HHZT
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",大湾区卫视FHD
+http://117.141.162.238:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="河南",信阳新闻综合FHD
 http://123.53.237.159:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="河南",信阳文旅FHD
@@ -33,8 +47,16 @@ http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="云南",文山新闻综合HD
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="内蒙古",准格尔旗综合FHD
+http://pili-live-hls-nmgapp12019.nmgcyy.com.cn/nmgapp12019/live173640226096016.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="新疆",兵团第14师昆玉市FHD
+http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广西",广西云-经典影艺FHD
 rtmp://live.gxrb.com.cn/pull/red_movies_0501
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",岭南戏曲FHD
+http://117.141.162.238:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",嘉佳卡通FHD
+http://117.141.162.238:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆综合FHD
 http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆生活服务FHD
@@ -119,3 +141,13 @@ http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="河南",武术世界FHD
 http://rtmp.tv.stream3.hndt.com/tv/65b4b750017e1000dbb9306200000000/playlist.m3u8
+#EXTINF:-1 group-title="直播",虎牙-11342416
+http://39.108.209.49:2999/huya/11342416
+#EXTINF:-1 group-title="直播",虎牙-11342420
+http://131.186.40.172:15002/huya/11342420
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",亚洲卫视FHD
+https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",广东体育FHD
+http://117.141.162.238:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",广东影视FHD
+http://117.141.162.238:8181/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
