@@ -17,10 +17,24 @@ http://123.53.237.159:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=
 http://123.53.237.159:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="青海",西宁生活服务FHD
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="江苏",江苏新闻FHD
+https://zhibo-hls.jstv.com/litchi/zhibo-jsgg.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="江苏",金湖新闻综合FHD
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="江苏",江都FHD
+http://cm-wshls.homecdn.com/live/8c1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="江苏",金坛FHD
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="江苏",丹阳新闻FHD
+http://danyang-tv-hls.cm.jstv.com/danyang-tv/danyangtv.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="湖北",十堰新闻综合HD
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="湖北",十堰经济旅游HD
 https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="云南",文山新闻综合HD
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广西",广西云-经典影艺FHD
+rtmp://live.gxrb.com.cn/pull/red_movies_0501
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆综合FHD
 http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆生活服务FHD
@@ -77,6 +91,8 @@ http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
 http://206.212.244.71:8080/4wVQA7/625159/159951
 #EXTINF:-1 tvg-logo="" group-title="A18",Bratty SIS FHD
 http://206.212.244.71:8080/4wVQA7/625159/159965
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",广东珠江FHD
+http://go.bkpcp.top/mg/gdzj
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",湛江新闻综合FHD
 http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",湛江公共FHD
@@ -85,3 +101,19 @@ http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",番禺PVA FHD
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",TVB翡翠台FHD
+http://bxtv.3a.ink/api.php?id=fct
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",CHC家庭影院FHD
+http://t.061899.xyz/tl/dq.php?id=jtyy
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",CHC动作电影FHD
+http://t.061899.xyz/tl/dq.php?id=dzdy
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",CHC影迷电影FHD
+http://t.061899.xyz/tl/dq.php?id=ymdy
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",中视菁采HD
+http://t.061899.xyz/tl/js/js.php?id=zsjc
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",重温经典FHD
+https://hyf000.eu.org/80947108/CWJD1
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",莲花卫视FHD
+http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",1905电影网FHD
+http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
