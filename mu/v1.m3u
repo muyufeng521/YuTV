@@ -1,0 +1,87 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz" catchup="append" catchup-days="5" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="4K",法国时尚台4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="央视",CCTV1 FHD
+http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",湖南卫视FHD
+http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",北京卫视FHD
+http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",兵团卫视FHD
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="卫视",西藏卫视FHD
+http://php.jdshipin.com:8880/xztv.php?id=ws
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="河南",信阳新闻综合FHD
+http://123.53.237.159:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="河南",信阳文旅FHD
+http://123.53.237.159:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="青海",西宁生活服务FHD
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="湖北",十堰新闻综合HD
+http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="湖北",十堰经济旅游HD
+https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆综合FHD
+http://zmylivestream.nfnews.com/zmy_slive/27872.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",肇庆生活服务FHD
+http://zmylivestream.nfnews.com/zmy_slive/27871.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",美亚电影台FHD
+http://bxtv.3a.ink/api.php?id=meiya
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",PopC FHD
+http://bxtv.3a.ink/api.php?id=popc
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",凤凰电影台SD
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",台视新闻FHD
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="数字",搜狐视频SD
+https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+#EXTINF:-1 group-title="网络",家庭剧场HD
+http://106.53.99.30/tv/gitv.php?id=0001
+#EXTINF:-1 group-title="网络",都市生活HD
+http://106.53.99.30/tv/gitv.php?id=0003
+#EXTINF:-1 group-title="网络",魅力时尚-华数 FHD
+http://114.241.254.251:4022/rtp/239.3.1.196:9012
+#EXTINF:-1 group-title="网络",武侠剧场-华数 FHD
+http://114.241.254.251:4022/rtp/239.3.1.90:4120
+#EXTINF:-1 tvg-logo="" group-title="直播",虎牙-21059552
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 tvg-logo="" group-title="电影",深海FHD
+https://vip1.lz-cdn1.com/20230324/20760_c088369d/index.m3u8
+#EXTINF:-1 group-title="歌曲",邰正宵-九百九十九朵玫瑰 HD
+http://em.21dtv.com/songs/100005552.mkv
+#EXTINF:-1 tvg-logo="" group-title="A18",teen HD
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",lesbian HD
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",My Life In Miami FHD
+http://206.212.244.71:8080/4wVQA7/625159/160019
+#EXTINF:-1 tvg-logo="" group-title="A18",Dorcel Club FHD
+http://206.212.244.71:8080/4wVQA7/625159/159975
+#EXTINF:-1 tvg-logo="" group-title="A18",Box Of Porn FHD
+http://206.212.244.71:8080/4wVQA7/625159/159964
+#EXTINF:-1 tvg-logo="" group-title="A18",Brazzers TV FHD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",ERO XXX FHD
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",Exotic4K FHD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/12107/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",Cum4K
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6190/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",Naughty America FHD
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/T7DRNUUUKCQLH6/6237/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="A18",JPAV1 FHD
+http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159976
+#EXTINF:-1 tvg-logo="" group-title="A18",The Max J FHD
+http://1tv41.icu:8080/LaLa34@yahoo.com/LaLa7678/159958
+#EXTINF:-1 tvg-logo="" group-title="A18",Trans Aangel FHD
+http://206.212.244.71:8080/4wVQA7/625159/159951
+#EXTINF:-1 tvg-logo="" group-title="A18",Bratty SIS FHD
+http://206.212.244.71:8080/4wVQA7/625159/159965
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",湛江新闻综合FHD
+http://gbtv-hls-wjq.zjwtv.com/zjtv/zhpd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",湛江公共FHD
+http://gbtv-hls-wjq.zjwtv.com/zjtv/ggpd.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",韶关新闻综合FHD
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="广东",番禺PVA FHD
+http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
