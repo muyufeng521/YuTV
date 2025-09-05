@@ -163,3 +163,5 @@ http://39.108.209.49:2999/huya/11342416
 http://131.186.40.172:15002/huya/11342420
 #EXTINF:-1 tvg-logo="" tvg-name="" group-title="GAT",亚洲卫视FHD
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="" group-title="CES",ZB
+http://guangdong-dx.zb.com/rtp/239.77.1.23:5146
