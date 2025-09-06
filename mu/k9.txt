@@ -1,0 +1,12 @@
+4K,#group#
+4K,#genre#
+CCTV16,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.201.63:5140
+CCTV4K,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.201.226:5140
+欢笑剧场4K,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.52:5140
+百事通纪实4K,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.182:5140
+百事通儿童4K,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.183:5140
+百事通影视4K,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.185:5140
+上海,#group#
+上海,#genre#
+都市剧场,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.11:5140
+动漫秀场,http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.12:5140
