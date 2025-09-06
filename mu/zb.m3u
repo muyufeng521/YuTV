@@ -1,0 +1,18 @@
+#EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml,http://156.225.20.179:5000/download/e.xml,https://epg.zsdc.eu.org/t.xml.gz" 
+#EXTM3U catchup="append" catchup-days="5" catchup-source="?playseek={utc:YmdHMS}-{utcend:YmdHMS}"
+#EXTINF:-1 group-title="4K",CCTV16
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.201.63:5140
+#EXTINF:-1 group-title="4K",CCTV4K
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.201.226:5140
+#EXTINF:-1 group-title="4K",欢笑剧场4K
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.52:5140
+#EXTINF:-1 group-title="4K",百事通纪实4K
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.182:5140
+#EXTINF:-1 group-title="4K",百事通儿童4K
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.183:5140
+#EXTINF:-1 group-title="4K",百事通影视4K
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.185:5140
+#EXTINF:-1 group-title="上海",都市剧场
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.11:5140
+#EXTINF:-1 group-title="上海",动漫秀场
+http://A/ku9/js/zb.js?ip=zhejiang-dx.zb&id=rtp/233.50.200.12:5140
