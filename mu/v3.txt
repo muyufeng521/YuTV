@@ -53,7 +53,7 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 发现之旅SD,http://113.195.172.192:808/hls/108/index.m3u8
 
 卫视,#group#
-数字,#genre#
+卫视,#genre#
 甘肃卫视,http://113.195.172.192:808/hls/226/index.m3u8
 数字,#genre#
 新动漫SD,http://113.195.172.192:808/hls/99/index.m3u8
@@ -62,7 +62,7 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 北京,#group#
 省台,#genre#
 卡酷少儿,http://113.195.172.192:808/hls/223/index.m3u8
-纪实科技,http://113.195.172.192:808/hls/230/index.m3u8
+纪实科教,http://113.195.172.192:808/hls/230/index.m3u8
 数字,#genre#
 四海钓鱼,http://113.195.172.192:808/hls/109/index.m3u8
 四海钓鱼,http://113.195.172.192:808/hls/240/index.m3u8
@@ -80,6 +80,7 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 六合新闻综合HD,http://p2hs.vzan.com/720020/432453820030502236/live.m3u8
 溧水新闻综合,http://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8
 苏州,#genre#
+苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 常熟综合HD,rtmp://cstvplay.21cs.cn/cstv1/cstv1
 常熟民生经济HD,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 张家港新闻综合HD,http://3gvod.zjgonline.com.cn:1935/live/_definst_/xinwenzonghe_app/chunklist.m3u8
@@ -91,6 +92,8 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 内蒙古,#group#
 鄂尔多斯,#genre#
 鄂尔多斯新闻综合,http://play1-qk.nmtv.cn/live/1735546299241021.m3u8
+巴彦淖尔,#genre#
+巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
 
 河南,#group#
 省台,#genre#
@@ -102,6 +105,25 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 象视界,http://150.158.10.195:80/dxxw.php?id=xsj
 象视界,http://1.94.31.214/php/hntv.php?id=xsj
 象视界,http://xxwx.yoesun.com/xxw/河南网.php?id=xsj
+郑州,#genre#
+郑州新闻综合,http://150.158.10.195:80/dxxw.php?id=zz1
+漯河,#genre#
+漯河新闻综合,http://150.158.10.195:80/dxxw.php?id=lh1
+漯河新闻综合,http://www.dsk.cc/hntv/hntv.php?id=lh1
+驻马店,#genre#
+驻马店新闻综合,http://150.158.10.195:80/dxxw.php?id=zmd1
+驻马店新闻综合,http://www.dsk.cc/hntv/hntv.php?id=zmd1
+商丘,#genre#
+商丘新闻综合SD,http://150.158.10.195:80/dxxw.php?id=sq1
+开封,#genre#
+开封新闻综合,http://150.158.10.195:80/dxxw.php?id=kf1
+开封新闻综合,http://www.dsk.cc/hntv/hntv.php?id=kf1
+开封文化旅游SD,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+信阳,#genre#
+信阳新闻综合,http://150.158.10.195:80/dxxw.php?id=xy1
+信阳新闻综合,http://www.dsk.cc/hntv/hntv.php?id=xy1
+周口,#genre#
+周口新闻综合,http://150.158.10.195:80/dxxw.php?id=zk1
 
 江西,#group#
 省台,#genre#
@@ -166,25 +188,39 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 环翠,http://1.94.31.214/php/qilu.php?id=whhczh
 
 浙江,#group#
+杭州,#genre#
+萧山综合HD,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 台州,#genre#
 温岭新闻综合SD,https://35813-live.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_911.m3u8
 温岭新闻综合SD,webview://https://web.guangdianyun.tv/tv/?id=911&uin=1639&newsList_ImgLocation=1
 温岭民生休闲SD,http://35813.hlsplay.aodianyun.com/tv_radio_35813/tv_channel_1287.m3u8
 温岭民生休闲SD,webview://https://web.guangdianyun.tv/tv/?id=1287&uin=1639&newsList_ImgLocation=1
 湖州,#genre#
+湖州新闻综合HD,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
+湖州文化娱乐HD,http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+湖州公共HD,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 长兴电视台,http://play-a11.quklive.com/live/1689126294179076.m3u8
 温州,#genre#
 瑞安新闻综合,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2033114999-67ff99bfbe1b4577b013750618ffce6b-0-454401c27452e83159ca9466ef742db2
 瑞安新闻综合,http://play-sh-21.quklive.com/live/1681269183807252.m3u8?auth_key=2039920481-e6234a8197034f1aa2b599714ed35d2a-0-6a8a3bd9c5887ff42c5fbfd0c42e2aee
 瑞安新闻综合,https://stream1.freetv.fun/rui-an-xin-wen-zong-he-1.m3u8
+嘉兴,#genre#
+嘉兴公共,http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
+嘉兴文化影视,http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+海宁新闻综合HD,https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 
 贵州,#group#
 贵阳,http://111.120.8.205:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 贵阳HD,webview://https://web.guangdianyun.tv/tv/?id=3398&uin=4263
 黔南,#genre#
 黔南,rtmp://tv.qntv.net/channellive/ch1
+毕节,#genre#
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 
 黑龙江,#group#
+哈尔滨,#genre#
+巴彦综合,https://rmplive.hljtv.com/live/bayan.m3u8
+巴彦综合,rtmp://masterpull.hljtv.com/live/vAtZi96R
 绥化,#genre#
 绥化新闻综合,https://rmplive.hljtv.com/live/suihua.m3u8
 绥化新闻综合,rtmp://masterpull.hljtv.com/live/v4o2g1hs
@@ -194,11 +230,22 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 芒市电视台,https://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 文山,#genre#
 文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
+玉溪,#genre#
+易门电视台,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 
 四川,#group#
 自贡,#genre#
 自贡综合SD,http://110.189.153.160:1001/zhpd.flv
 自贡文化生活SD,http://110.189.153.160:1002/ggpd.flv
+宜宾,#genre#
+叙州综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8
+乐山,#genre#
+乐山新闻综合,http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
+乐山文旅生活HD,http://pwpull.leshan.cn:80/live/216e177701911000eb46902c00000000/playlist.m3u8
+i乐山,https://play-hwgy.vzan.com/slowlive/147517797332177132/live.m3u8?vzsign=4f924f96808a8cb6d13a33c10c411e5a&uid=0&uuid=9c0e1a58b14847c48f52495d82250f8a&vzsign2=7acc0a11424a4136cbf11a07bd8c7cb7
+井研新闻综合,http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 
 吉林,#group#
 白山,#genre#
@@ -208,6 +255,12 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 宜昌,#genre#
 宜昌综合HD,http://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
 宜昌旅游生活HD,http://liveplay.ycrmt.cn/sxgd/lysh.m3u8
+鄂州,#genre#
+鄂州新闻综合,https://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
+鄂州文旅生活,https://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
+十堰,#genre#
+十堰新闻综合HD,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+十堰经济旅游HD,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 
 湖南,#group#
 省台,#genre#
@@ -221,6 +274,9 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 茶频道,http://113.195.172.192:808/hls/233/index.m3u8
 先锋乒羽,http://113.195.172.192:808/hls/101/index.m3u8
 先锋乒羽,http://113.195.172.192:808/hls/239/index.m3u8
+长沙,#genre#
+长沙新闻综合HD,webview://https://web.guangdianyun.tv/tv/?id=346&uin=1648
+长沙县新闻综合,http://xsds.b.dingtoo.com/AppName/StreamName.m3u8
 
 福建,#group#
 三明,#genre#
@@ -228,6 +284,4 @@ CETV1,http://113.195.172.192:808/hls/175/index.m3u8
 
 测试,#group#
 测试,#genre#
-鄂州新闻综合,https://ezhou-live21.cjyun.org/10098/s10098-EZ1T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-0f99f7df9fd0d3fca9beca6bafa6b043
-鄂州公共频道,https://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-ab320ba90f39f94baba04e30ff07c52e
-贵阳HD,https://52453-live.hlsplay.aodianyun.com/tv_radio_52453/tv_channel_3398.m3u8?auth_key=1757310326-0-0-90f19afb5e2e52fa7cf0704a70bfd09c&extra_key=MBXqst1C-SJQtVuLWamARr1gZYjj8vyBPN0d2Xs3NRKWFtY1Dvb3Dk-mevamcRN9Pi-1wV9mPU8pE35KP46NkCjpW2Kib5oz8yJKNHQXm3b5OVYqWCVF7gTEQZ2I34OE6s_BdMOYCTgFRXW1NGdzXA2jzHoNeabKLjy4-943kbU
+
