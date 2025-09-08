@@ -25,7 +25,7 @@ CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/1.m3u8? $FHD-上海IP
 CCTV7,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8 $FHD-黑龙江IPV6
 CCTV7,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $FHD-黑龙江IPV6
 CCTV7,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $FHD-黑龙江IPV6
-CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF $军号
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF $FHD-军号
 CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8? $FHD-上海IPV6
 CCTV8,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $FHD-黑龙江IPV6
 CCTV8,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $FHD-黑龙江IPV6
@@ -53,16 +53,42 @@ CCTV付费,#genre#
 怀旧剧场,webview://https://yangshipin.cn/tv/home?pid=600099620 $HD-央视频
 卫视,#group#
 卫视,#genre#
-北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
-东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/1.m3u8
+北京卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8? $FHD-上海IPV6
+东方卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/1.m3u8? $FHD-上海IPV6
+东方卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8 $FHD-黑龙江IPV6
+江苏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225720/1.m3u8? $FHD-上海IPV6
+江苏卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8 $FHD-黑龙江IPV6
+浙江卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8 $FHD-黑龙江IPV6
+浙江卫视,https://zwebl02.cztv.com/live/channel011080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-ec2283c392de5aa07c72e770576478bb& $FHD-Z视界
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8? $FHD-新蓝云
 天津卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225742/1.m3u8? $FHD-上海IPV6
 湖北卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225729/1.m3u8? $FHD-上海IPV6
 山西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8? $FHD-上海IPV6
 四川卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226152/1.m3u8? $FHD-上海IPV6
-安徽卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-黑龙江卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-辽宁卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/1.m3u8
+安徽卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8 $FHD-黑龙江IPV6
+辽宁卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225747/1.m3u8? $FHD-上海IPV6
+甘肃卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8? $FHD-上海IPV6
+山东卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8 $FHD-黑龙江IPV6
+河北卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8 $FHD-黑龙江IPV6
+重庆卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226171/1.m3u8? $FHD-上海IPV6
+东南卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8 $FHD-黑龙江IPV6
+吉林卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226082/1.m3u8? $FHD-上海IPV6
+广东卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/1.m3u8? $FHD-上海IPV6
+广西卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8? $FHD-上海IPV6
+贵州卫视，http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8 $FHD-黑龙江IPV6
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8 $FHD-兵团
-西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws $FHD-yoesun
-新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws $HD-推流代理
-内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws  $FHD-推流代理
+西藏卫视,http://xxwx.yoesun.com/xxw/西藏网.php?id=ws& $FHD-yoesun
+新疆卫视,http://t.061899.xyz/tl/tl.php?id=xjws& $HD-推流代理
+内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmgws& $FHD-推流代理
+宁夏卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226092/1.m3u8? $SD-上海IPV6
+厦门卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8? $SD-上海IPV6
+康巴卫视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8 $SD-黑龙江IPV6
+上海,#group#
+SITV,#genre#
+欢笑剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8? $FHD-上海IPV6
+东方影视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8? $FHD-上海IPV6
+都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8? $FHD-上海IPV6
+黑龙江,#group#
+省台,#genre#
+黑龙江农业科教,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8 $FHD-黑龙江IPV6
+黑龙江影视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8 $FHD-黑龙江IPV6
