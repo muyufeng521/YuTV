@@ -1,0 +1,7 @@
+中央,#group#
+CCTV免费,#genre#
+CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8 $FHD-上海IPV6
+CCTV1,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8 $FHD-黑龙江IPV6
+CCTV付费,#genre#
+第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311 $HD-广电云
+第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655 $HD-央视频
