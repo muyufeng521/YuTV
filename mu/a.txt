@@ -1,24 +1,51 @@
+
 中央,#group#
 CCTV免费,#genre#
+# 上海IPV6 需添加 ? 否则无法识别 
+CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8? $FHD-上海IPV6
 CCTV1,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8 $FHD-黑龙江IPV6
-CCTV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226163/1.m3u8 $FHD-上海IPV6
+CCTV1,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8 $FHD-黑龙江IPV6
+CCTV1,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 $FHD-黑龙江IPV6
+CCTV1,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8 $FHD-黑龙江IPV6
+CCTV2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8? $FHD-上海IPV6
 CCTV2,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8 $FHD-黑龙江IPV6
-CCTV2,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/1.m3u8 $FHD-上海IPV6
-CCTV3,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 $FHD-黑龙江IPV6
+CCTV2,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8 $FHD-黑龙江IPV6
 CCTV3,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/1.m3u8? $FHD-上海IPV6
-CCTV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8
-CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8
-CCTV6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8
-CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/1.m3u8
-CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8
-CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/1.m3u8
-CCTV11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/1.m3u8
-CCTV12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226126/1.m3u8
-CCTV13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8
-CCTV14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
-CCTV15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8
-CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
+CCTV3,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 $FHD-黑龙江IPV6
+CCTV3,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8 $FHD-黑龙江IPV6
+CCTV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8? $FHD-上海IPV6
+CCTV4,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8 $FHD-黑龙江IPV6
+CCTV4,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8 $FHD-黑龙江IPV6
+CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8? $FHD-上海IPV6
+CCTV5,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8 $FHD-黑龙江IPV6
+CCTV5,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8 $FHD-黑龙江IPV6
+CCTV6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226148/1.m3u8? $FHD-上海IPV6
+CCTV6,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8 $FHD-黑龙江IPV6
+CCTV6,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8 $FHD-黑龙江IPV6
+CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/1.m3u8? $FHD-上海IPV6
+CCTV7,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8 $FHD-黑龙江IPV6
+CCTV7,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $FHD-黑龙江IPV6
+CCTV7,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8 $FHD-黑龙江IPV6
+CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8? $FHD-上海IPV6
+CCTV8,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $FHD-黑龙江IPV6
+CCTV8,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8 $FHD-黑龙江IPV6
+CCTV9,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8 $FHD-黑龙江IPV6
+CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/1.m3u8? $FHD-上海IPV6
+CCTV10,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8 $FHD-黑龙江IPV6
+CCTV11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/1.m3u8? $FHD-上海IPV6
+CCTV11,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8 $FHD-黑龙江IPV6
+CCTV12,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226126/1.m3u8? $FHD-上海IPV6
+CCTV12,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8 $FHD-黑龙江IPV6
+CCTV12,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8 $FHD-黑龙江IPV6
+CCTV13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/1.m3u8? $FHD-上海IPV6
+CCTV13,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8 $FHD-黑龙江IPV6
+CCTV14,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8? $FHD-上海IPV6
+CCTV14,http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8 $FHD-黑龙江IPV6
+CCTV15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/1.m3u8? $FHD-上海IPV6
+CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8? $FHD-上海IPV6
+CCTV16,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8 $FHD-黑龙江IPV6
+CCTV5+,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8 $FHD-黑龙江IPV6
+CCTV17,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8 $FHD-黑龙江IPV6
 CCTV付费,#genre#
 第一剧场,webview://https://yangshipin.cn/tv/home?pid=600099655 $HD-央视频
-第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311 $HD-广电云-w
-第一剧场,video://https://web.guangdianyun.tv/tv/?id=1793&uin=2311 $HD-广电云-v
+第一剧场,webview://https://web.guangdianyun.tv/tv/?id=1793&uin=2311 $HD-广电云
