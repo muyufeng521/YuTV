@@ -256,3 +256,8 @@ SITV,#genre#
 省台,#genre#
 黑龙江农业科教,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8 $FHD-黑龙江IPV6
 黑龙江影视,http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8 $FHD-黑龙江IPV6
+
+河南,#group#
+省台,#genre#
+IPTV导视,http://A/ku9/js/zb.js?ip=henan-lt&id=/rtp/225.1.4.194:1244 $河南联通组播
+热播剧场,http://A/ku9/js/zb.js?ip=henan-lt&id=/rtp/225.1.4.190:1239& $河南联通组播
